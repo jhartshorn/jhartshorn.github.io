@@ -2,7 +2,6 @@
 layout: post
 title: "A few thoughts on Mastodon"
 ---
-# A few thoughts on Mastodon
 As the Elon Musk/Twitter shitshow has unfolded over the past few weeks, I’ve been using Mastodon more. I originally signed up for an account on [mastodon.social][1] in 2018, but didn’t really take to it. Back then, most posts were about liber software/FOSS activism—one of my interests, but not my only or primary one.
 
 In early November Twitter made controversial changes to its verification policy and [a spreadsheet listing profiles of journalists][2] was circulating, and I followed all 50 or so on there at the time (there are currently over 1,200 accounts listed).

@@ -2,7 +2,6 @@
 layout: post
 title: “My “Mastodon profile”
 ---
-# My Mastodon Profile
 🐘[mastodon.social/@jhartshorn][1]
 
 As Twitter is now banning both links to Mastodon, and to link aggregators, use this link to access my profile.
