@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “My Mastodon profile”
+title: My Mastodon profile
 ---
 🐘[mastodon.social/@jhartshorn][1]
 

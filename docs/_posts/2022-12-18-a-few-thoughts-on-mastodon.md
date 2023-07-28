@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A few thoughts on Mastodon"
+title: A few thoughts on Mastodon
 ---
 As the Elon Musk/Twitter shitshow has unfolded over the past few weeks, I’ve been using Mastodon more. I originally signed up for an account on [mastodon.social][1] in 2018, but didn’t really take to it. Back then, most posts were about liber software/FOSS activism—one of my interests, but not my only or primary one.
 
