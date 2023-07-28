@@ -1,0 +1,6 @@
+---
+layout: post
+title: Test
+date: 2023-07-29
+---
+Just a test.
