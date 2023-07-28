@@ -1,7 +1,0 @@
----
-layout: post
-title: "And again"
-date: 2023-07-28
----
-
-Here it is
