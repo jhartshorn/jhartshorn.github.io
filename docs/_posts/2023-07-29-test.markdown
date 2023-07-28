@@ -1,10 +1,6 @@
 ---
 layout: post
-title: "Test"
+title: Test
 date: 2023-07-29
-author: James Hartshorn
-category: blog
-blog: true
 ---
-
-Just a test
+Just a test.

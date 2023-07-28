@@ -21,10 +21,10 @@
 title: Hartshorn.io
 author: James Hartshorn
 subtitle: James Hartshorn's blog
-description: >- # this means to ignore newlines until "baseurl:"
-  I don’t often have thoughts that or worthy of publication, but in the event I do, here is where they’ll go.
+# description: >- # this means to ignore newlines until "baseurl:"
+#  I don’t often have thoughts that or worthy of publication, but in the event I do, here is where they’ll go.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://hartshorn.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jhartshorn
 github_username:  jhartshorn
 mastodon:  
