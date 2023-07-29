@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Hartshorn .io
+title: James Hartshorn
 author: James Hartshorn
 subtitle: James Hartshorn's blog
 timezone: Europe/London
