@@ -34,7 +34,7 @@ mastodon:
 linkedin_username: jameshartshorn
 
 # Build settings
-theme: broccolini/swiss
+remote_theme: broccolini/swiss
 plugins:
   - jekyll-feed
 
