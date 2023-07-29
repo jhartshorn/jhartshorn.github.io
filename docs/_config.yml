@@ -35,6 +35,7 @@ linkedin_username: jameshartshorn
 
 # Build settings
 remote_theme: broccolini/swiss
+theme_color: yellow
 plugins:
   - jekyll-feed
 
