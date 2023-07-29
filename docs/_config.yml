@@ -34,7 +34,7 @@ mastodon:
 linkedin_username: jameshartshorn
 
 # Build settings
-theme: minima
+theme: swiss
 plugins:
   - jekyll-feed
 
