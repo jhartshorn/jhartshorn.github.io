@@ -26,14 +26,14 @@ timezone: Europe/London
 #  I don’t often have thoughts that or worthy of publication, but in the event I do, here is where they’ll go.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://hartshorn.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jhartshorn
-github_username:  jhartshorn
-mastodon:  
-- username: jhartshorn
-  instance: mastodon.social
-linkedin_username: jameshartshorn
-social_link: twitter
-social_username: jhartshorn
+#twitter_username: jhartshorn
+#github_username:  jhartshorn
+#mastodon:  
+#- username: jhartshorn
+#  instance: mastodon.social
+#linkedin_username: jameshartshorn
+#social_link: twitter
+#social_username: jhartshorn
 theme_color: yellow
 
 # Build settings
@@ -41,7 +41,7 @@ remote_theme: broccolini/swiss
 
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
+#  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
