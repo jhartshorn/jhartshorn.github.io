@@ -4,3 +4,4 @@
 
 layout: home
 ---
+James Hartshorn's blog. Updated infrequently.
