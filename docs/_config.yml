@@ -32,10 +32,13 @@ mastodon:
 - username: jhartshorn
   instance: mastodon.social
 linkedin_username: jameshartshorn
+social_link: twitter
+social_username: jhartshorn
+theme_color: yellow
 
 # Build settings
 remote_theme: broccolini/swiss
-theme_color: yellow
+
 plugins:
   - jekyll-feed
 
