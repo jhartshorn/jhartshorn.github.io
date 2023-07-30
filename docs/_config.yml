@@ -22,7 +22,7 @@ title: James Hartshorn
 author: James Hartshorn
 subtitle: James Hartshorn's blog
 timezone: Europe/London
-description: My thoughts, recorded seldomly.
+description: My thoughts, recorded occasionally.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://hartshorn.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jhartshorn
