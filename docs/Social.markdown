@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Social
+permalink: /social/
 ---
 
 - Mastodon: [@jhartshorn@mastodon.social](https://mastodon.social/@jhartshorn)
