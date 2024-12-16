@@ -12,6 +12,6 @@ The great community and decentralised, federated model behind Mastodon more than
 
 🐘[mastodon.social/@jhartshorn][3]
 
-[1]:	https://mastodon.social/
-[2]:	https://docs.google.com/spreadsheets/d/13No4yxY-oFrN8PigC2jBWXreFCHWwVRTftwP6HcREtA/edit
-[3]:	https://mastodon.social/@jhartshorn
+[1]: https://mastodon.social/
+[2]: https://docs.google.com/spreadsheets/d/13No4yxY-oFrN8PigC2jBWXreFCHWwVRTftwP6HcREtA/edit
+[3]: https://mastodon.social/@jhartshorn
