@@ -80,15 +80,7 @@ a:focus-visible {
   justify-content: space-between;
 }
 
-.site-name {
-  display: grid;
-  width: 2rem;
-  height: 2rem;
-  place-items: center;
-  border: 1px solid $ink;
-  text-decoration: none;
-  letter-spacing: 0;
-}
+.site-header .shell { justify-content: flex-end; }
 
 .site-header nav {
   display: flex;
