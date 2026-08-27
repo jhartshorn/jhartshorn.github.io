@@ -1,4 +1,6 @@
-<div class="border-top-thin clearfix mt-2 mt-lg-4"><a class="btn btn-rss" href="/feed.xml" target="_blank">RSS</a> </div>
-
-
-   
+<footer class="site-footer">
+  <div class="shell">
+    <p>© {{ site.time | date: '%Y' }} {{ site.author | escape }}</p>
+    <a href="{{ '/social/' | relative_url }}">Elsewhere</a>
+  </div>
+</footer>

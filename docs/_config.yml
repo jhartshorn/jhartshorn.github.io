@@ -24,7 +24,7 @@ subtitle: James Hartshorn's blog
 timezone: Europe/London
 description: My thoughts, recorded occasionally.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://hartshorn.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hartshorn.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jhartshorn
 #github_username:  jhartshorn
 #mastodon:  
@@ -33,10 +33,9 @@ url: "http://hartshorn.io" # the base hostname & protocol for your site, e.g. ht
 #linkedin_username: jameshartshorn
 #social_link: twitter
 #social_username: jhartshorn
-theme_color: yellow
+theme_color: cream
 
 # Build settings
-remote_theme: broccolini/swiss
 
 plugins:
   - jekyll-feed
