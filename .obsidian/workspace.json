@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/_posts/2026-08-27-Who-Pays-for-the-AI-Economy.md",
+                "file": "docs/_posts/2026-08-27-Who-Captures-Value-Artificial-Intelligence.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-27-Who-Pays-for-the-AI-Economy"
+              "title": "2026-08-27-Who-Captures-Value-Artificial-Intelligence"
             }
           }
         ],
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/_posts/2026-08-27-Who-Pays-for-the-AI-Economy.md",
+                "file": "docs/_posts/2026-08-27-Who-Captures-Value-Artificial-Intelligence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/_posts/2026-08-27-Who-Pays-for-the-AI-Economy.md",
+                "file": "docs/_posts/2026-08-27-Who-Captures-Value-Artificial-Intelligence.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -156,13 +156,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "blog-publisher:Publish blog": false
     }
   },
-  "active": "93a4d7a51ac4a9bc",
+  "active": "0f2a37c11c57217b",
   "lastOpenFiles": [
     "docs/_posts/2022-12-18-a-few-thoughts-on-mastodon.md",
-    "docs/_posts/2026-08-27-Who-Pays-for-the-AI-Economy.md",
+    "docs/_posts/2026-08-27-Who-Captures-Value-Artificial-Intelligence.md",
     "scripts/publish",
     "scripts",
     "obsidian_templates/Jekyll post.md",

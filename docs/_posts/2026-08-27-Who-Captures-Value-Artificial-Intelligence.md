@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Who Pays for the AI Economy?"
+title: "Who Captures the Value of Artificial Intelligence?"
 date: "2026-08-27"
 published: true
 excerpt: "If the world's most powerful AI companies are concentrated in the US and China, where does that leave countries like Britain?"
@@ -16,7 +16,7 @@ Before publishing:
 - Change published to true.
 -->
 
-I've been thinking about where the money will go in an AI economy if most of the hyperscalers are based in the US or China. My initial intuition is that this could become unsustainable for countries that do not control their own frontier AI - huge amounts of money could flow overseas, while the countries hosting the leading AI companies capture both the profits and the tax revenue. Where does that leave the rest of the world?
+I've been thinking about where the money will go in an AI economy if most of the hyperscalers are based in the US or China. My initial intuition was that it could become unsustainable for countries that do not control their own frontier AI - huge amounts of money could flow overseas, while the countries hosting the leading AI companies capture both the profits and the tax revenue. Where does that leave the rest of the world?
 
 Imagine a future where AI can perform a large proportion of the work currently done by people. Employment could fall substantially and governments would need to replace lost tax revenue. They may also need to pay for an extensive income support scheme or even a universal basic income.
 
