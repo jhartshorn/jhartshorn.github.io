@@ -1,0 +1,43 @@
+#!/usr/bin/env bash
+
+set -euo pipefail
+
+repo_root="$(git rev-parse --show-toplevel 2>/dev/null)" || {
+  echo "Error: this script must be run from inside the blog repository." >&2
+  exit 1
+}
+
+cd "$repo_root"
+
+branch="$(git branch --show-current)"
+if [[ -z "$branch" ]]; then
+  echo "Error: cannot publish while Git is in a detached HEAD state." >&2
+  exit 1
+fi
+
+if [[ -z "$(git status --porcelain)" ]]; then
+  echo "Nothing to publish; the repository is already clean."
+  exit 0
+fi
+
+if [[ $# -gt 0 ]]; then
+  commit_message="$*"
+else
+  commit_message="Publish blog update $(date '+%Y-%m-%d %H:%M')"
+fi
+
+echo "Staging all changes..."
+git add --all
+
+echo "Creating commit: $commit_message"
+git commit -m "$commit_message"
+
+if git rev-parse --abbrev-ref --symbolic-full-name '@{upstream}' >/dev/null 2>&1; then
+  echo "Pushing $branch to its upstream remote..."
+  git push
+else
+  echo "Pushing $branch to origin and setting its upstream..."
+  git push --set-upstream origin "$branch"
+fi
+
+echo "Published successfully."

@@ -1,0 +1,9 @@
+{
+  "id": "blog-publisher",
+  "name": "Publish Blog",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Commits and pushes this Jekyll blog from Obsidian on macOS.",
+  "author": "James Hartshorn",
+  "isDesktopOnly": true
+}
