@@ -20,9 +20,9 @@ I've been thinking about where the money will go in an AI economy if most of the
 
 Imagine a future where AI can perform a large proportion of the work currently done by people. Employment could fall substantially and governments would need to replace lost tax revenue. They may also need to pay for an extensive income support scheme or even a universal basic income.
 
-For countries like the United States, it seems straightforward. The government could simply tax the profits of AI companies like OpenAI or Anthropic, which presumably are going to be enormous someday.
+For the United States (and maybe China), it seems straightforward. The government could simply tax the profits of AI companies, which presumably are going to be enormous eventually.
 
-But what about the rest of us?
+But what about the rest of the world?
 
 If British businesses and public services are paying American companies to use their AI, some of the economic rent is flowing overseas. We cannot simply tax OpenAI's worldwide profits as though it were a British company.
 
@@ -34,7 +34,7 @@ Even if Anthropic eventually made a very high 30% profit margin on that business
 
 So Britain might spend £2 billion overseas and indirectly contribute something like £126 million to the US Treasury, while receiving perhaps tens of billions of pounds of additional productive capacity at home.
 
-The same principle applies across the economy. A British engineering firm might pay an American AI company £1 million a year but use it to generate £10 million of additional output. Most of that £10 million does not automatically disappear to America. It appears in Britain as profits, wages, investment and, ultimately, taxable economic activity.
+The same principle applies across the economy. A British engineering firm might pay an American AI company £1 million a year but use it to generate £10 million of additional output. Most of that £10 million does not automatically disappear to America. It could be expected to appear in Britain as profits, wages, investment and, other taxable economic activity.
 
 The rewards of effectively utilising AI seem like they might outweigh the benefits of owning AI to a greater extent than I had intuitively assumed.
 
@@ -42,4 +42,5 @@ Obviously, domestic AI companies at or near the frontier would be a huge advanta
 
 But we do not necessarily need to produce the world's dominant AI models to benefit from them. We need British organisations to become exceptionally good at using them.
 
-For a country like the UK, the priority might be to avoid complacency and adopt AI quickly and effectively across both the public and private sectors, so that we capture as much of the value it creates as possible. At the same time, we should continue investing in areas where we already have genuine strengths, such as biosciences and aerospace.
+For a country like the UK, the priority might be to adopt AI rapidly and effectively across both the economy, rather than focus on building out sovereign capability. At the same time, we should continue integrating AI in areas where we already have national strengths, such as financial services, biosciences and aerospace.
+ 
