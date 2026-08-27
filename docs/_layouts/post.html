@@ -4,7 +4,6 @@ layout: default
 
 <article class="article h-entry">
   <header class="article-header">
-    <p class="article-kicker">Essay</p>
     <h1 class="p-name">{{ page.title | escape }}</h1>
     <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%e %B %Y" }}</time>
   </header>
@@ -14,6 +13,6 @@ layout: default
   </div>
 
   <footer class="article-footer">
-    <a href="{{ '/' | relative_url }}">← All writing</a>
+    <a href="{{ '/' | relative_url }}">← Posts</a>
   </footer>
 </article>

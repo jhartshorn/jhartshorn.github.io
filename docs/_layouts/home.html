@@ -7,8 +7,8 @@ layout: default
   <p>{{ site.description }}</p>
 </section>
 
-<section class="post-list" aria-labelledby="writing-title">
-  <h2 class="section-label" id="writing-title">Writing</h2>
+<section class="post-list" aria-labelledby="posts-title">
+  <h2 class="section-label" id="posts-title">Posts</h2>
   {% for post in site.posts %}
     <article class="post-preview">
       <a href="{{ post.url | relative_url }}">
